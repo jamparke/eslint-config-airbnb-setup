@@ -1,4 +1,5 @@
- # Eslint, Prettier, & AirBnB Rules for React projects Guide
+ 
+# Guide for Eslint, Prettier, & AirBnB Rules for Create-react-app projects
 
 ## 1. Install the correct versions of each package, which are listed by the command:
 
